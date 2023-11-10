@@ -18,3 +18,21 @@ h1{
     left: 50%;
     transform: translate(-50%, -50%);
 }
+
+.point{
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    background-color: black;
+    position: absolute;
+}
+
+#start{
+    left: 20%;
+    top: 40%;
+}
+
+#end{
+    right: 20%;
+    bottom: 40%;
+}
